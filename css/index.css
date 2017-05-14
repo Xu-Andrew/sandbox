@@ -29,6 +29,11 @@ body {
   border-radius: 10px;
 }
 
+.btn-default:hover {
+  background-color: transparent;
+  border-color: transparent;
+}
+
 .contactBlock {
   color: #000000;
   width: 20%;
@@ -36,9 +41,13 @@ body {
 
 .contactButton {
   color: #000000;
-  border-color: #000000;
+  border-color: transparent;
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.contactButton:hover {
+  color: #960c5a;
 }
 
 .contactPage {
@@ -92,6 +101,18 @@ h3 {
 .projectsBlock {
   color: #f2f2f2;
   width: 20%;
+}
+
+.projectsButton {
+  font-size: 2em;
+  color: #f2f2f2;
+  border-color: transparent;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.projectsButton:hover {
+  color: #b6f9f7;
 }
 
 .projectsPage {
