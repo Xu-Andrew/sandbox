@@ -1,6 +1,7 @@
 .aboutBio {
   text-align: justify;
-  margin-left: 10px;
+  margin-top: 120px;
+  margin-left: 80px;
   width: 800px;
 }
 
@@ -35,10 +36,12 @@ body {
   border-radius: 10px;
 }
 
-.btn-default:hover {
-  background-color: transparent;
-  border-color: transparent;
+.btn-default:hover, .btn-default:focus {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none;
 }
+
 
 .contactBlock {
   color: #000000;
@@ -48,6 +51,7 @@ body {
 .contactButton {
   color: #000000;
   border-color: transparent;
+  background-color: transparent;
   margin-top: 5px;
   margin-bottom: 5px;
 }
