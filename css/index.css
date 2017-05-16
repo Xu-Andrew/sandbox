@@ -1,8 +1,8 @@
 .aboutBio {
   text-align: justify;
   margin-top: 120px;
-  margin-left: 80px;
-  width: 720px;
+  margin-left: 90px;
+  width: 680px;
   font-family: "Nothing You Could Do", cursive;
 }
 
@@ -26,7 +26,7 @@
 }
 
 body {
-  font-family: "La Belle Aurore", cursive;
+  font-family: "Open Sans Condensed", sans-serif;
   color: #f2f2f2;
 }
 
@@ -118,6 +118,10 @@ h3 {
   font-size: 3em;
 }
 
+.mysticalProject {
+  font-family: "La Belle Aurore", cursive;
+}
+
 .nav>li>a:hover, .nav>li>a:focus {
     border-color: transparent !important;
     background-color: transparent !important;
@@ -149,6 +153,9 @@ h3 {
 }
 
 .titleBlock {
+  font-family: "La Belle Aurore", cursive;
+  color: #8c00ff;
+  opacity: .4;
   width: 50%;
   margin-left: auto;
   margin-right: auto;
