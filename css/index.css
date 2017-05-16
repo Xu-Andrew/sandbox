@@ -3,6 +3,7 @@
   margin-top: 120px;
   margin-left: 80px;
   width: 800px;
+  font-family: "Nothing You Could Do", cursive;
 }
 
 .aboutBlock {
@@ -25,7 +26,7 @@
 }
 
 body {
-  font-family: 'La Belle Aurore', cursive;
+  font-family: "La Belle Aurore", cursive;
   color: #f2f2f2;
 }
 
@@ -61,7 +62,7 @@ body {
 }
 
 .contactPage {
-  background: url(https://images.unsplash.com/photo-1467042880794-30f4ba206c09?dpr=1&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=&bg=);
+  background: url("https://images.unsplash.com/photo-1467042880794-30f4ba206c09?dpr=1&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=&bg=");
   background-size: cover;
   background-position: 5%;
   height: 900px;

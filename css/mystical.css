@@ -10,7 +10,7 @@ body {
   height: 40px;
   width: 100%;
   text-align: center;
-  font-family: 'La Belle Aurore', cursive;
+  font-family: "La Belle Aurore", cursive;
   color: #f2f2f2;
   background-color: #000000;
 }
@@ -35,7 +35,7 @@ body {
 }
 
 .gallery-content {
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   font-size: 11pt;
   line-height: 1.35;
   width: 600px;
@@ -48,7 +48,7 @@ body {
   border: 1px solid #ccc;
   width: 220px;
   height: 280px;
-  font-family: 'La Belle Aurore', cursive;
+  font-family: "La Belle Aurore", cursive;
   font-size: 2em;
   color: #333333;
 }
