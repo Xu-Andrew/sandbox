@@ -1,9 +1,10 @@
 body {
   margin: 0;
+  padding: 5px;
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   height: 40px;
@@ -16,8 +17,8 @@ body {
 
 .gallery {
     float: left;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: auto;
     position: relative;
 }
 
@@ -25,7 +26,7 @@ body {
   display: inline-block;
   width: 220px;
   height: 280px;
-  margin: 10px;
+  margin: 5px;
 }
 
 .gallery-block {
@@ -82,11 +83,11 @@ body {
   background: url("../resources/img/sandbox.jpg");
 }
 
-.test1 {
-  background: url("../resources/img/test5.jpg");
+.on-haikus {
+  background: url("../resources/img/haikus.jpg");
   background-position: right top;
 }
 
-.test2 {
-  background: url("../resources/img/test3.jpg");
+.on-discrete {
+  background: url("../resources/img/discrete.jpg");
 }
