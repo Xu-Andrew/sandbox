@@ -20,6 +20,7 @@ body {
     width: 100%;
     height: auto;
     position: relative;
+    margin-bottom: 35px;
 }
 
 .gallery>a {
