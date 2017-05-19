@@ -16,13 +16,13 @@
   /*background: url("https://images.unsplash.com/photo-1476108621677-3c620901b5e7?dpr=1&auto=format&fit=crop&w=1199&h=899&q=80&cs=tinysrgb&crop=&bg="); mountain url*/
   background-size: cover;
   background-position: 10%;
-  height: 900px;
+  height: 100vh;
 }
 
 .basePage {
   background: url("https://images.unsplash.com/photo-1491764317679-2d993424ff66?dpr=1&auto=format&fit=crop&w=1500&h=2144&q=80&cs=tinysrgb&crop=&bg=");
   background-size: cover;
-  height: 2144px;
+  height: 190vh;
 }
 
 body {
@@ -65,7 +65,7 @@ body {
   background: url("https://images.unsplash.com/photo-1467042880794-30f4ba206c09?dpr=1&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=&bg=");
   background-size: cover;
   background-position: 5%;
-  height: 900px;
+  height: 100vh;
   position: relative;
 }
 
@@ -149,7 +149,7 @@ h3 {
   background: url("https://images.unsplash.com/photo-1422949262308-76e6e4906af4?dpr=1&auto=format&fit=crop&w=1199&h=796&q=80&cs=tinysrgb&crop=&bg=");
   background-size: cover;
   background-position: 10%;
-  height: 900px;
+  height: 100vh;
 }
 
 .titleBlock {
